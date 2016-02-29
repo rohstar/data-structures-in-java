@@ -1,8 +1,8 @@
 # data-structures-in-java
 
-BFS Implementation
+Binary Search Tree Implementation
   - Search
   - Delete
   - Add
-  - BFS
+  - BFS / Level Order Traversal
   - Display 
