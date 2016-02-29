@@ -26,6 +26,11 @@ public class main
 
 	//Test Search
 	//System.out.println(t.search(51));
+
+	//DFS Implementations
+	// t.preorder(t.root);System.out.println();
+	// t.inorder(t.root);System.out.println();
+	// t.postorder(t.root);System.out.println();
 	}
 	
 }
